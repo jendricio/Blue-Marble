@@ -7,7 +7,9 @@ We firmly believe that our efforts will help create a better future for generati
 
 # Our Values
 
-At Fundatia Ananke, we are strong believers in open-source technology. We believe that by openly sharing knowledge, skills, and resources, we can collaborate and work towards a fair and sustainable future that benefits everyone. The beauty of open source is that it encourages the contribution of the whole community. Everyone has the equal opportunity to share their unique perspectives and insights, which leads to a more diverse and inclusive approach to problem-solving.
+At Ananke Foundation, we firmly believe in the power of an open mind. Our commitment to questioning our beliefs and remaining receptive to new ideas allows us to challenge the status quo. We see opportunities where others see obstacles, and we are unafraid to be the round peg in a square hole. Our unwavering confidence in our approach enables us to achieve our ultimate goal of effecting positive change in the world.
+
+We are also strong believers in open-source technology. We believe that by openly sharing knowledge, skills, and resources, we can collaborate and work towards a fair and sustainable future that benefits everyone. The beauty of open source is that it encourages the contribution of the whole community. Everyone has the equal opportunity to share their unique perspectives and insights, which leads to a more diverse and inclusive approach to problem-solving.
 One of the key benefits of open source is transparency. With open source, there is no hidden agenda or proprietary ownership. Everyone has equal access to the information they need to make informed decisions.
 
 Transparency is not just a value we hold at our foundation, it’s a cornerstone of our community. We are convinced that everyone deserves access to information about how decisions are made, and resources are allocated. By doing so, we empower our community to trust in our processes and collaborate with us.

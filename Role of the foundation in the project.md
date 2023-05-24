@@ -8,8 +8,8 @@ It ensures that the values of the DAO and the foundation are aligned, upheld, an
 It also provides a platform for all sustainability projects that the DAO wishes to promote and execute. 
 Additionally, it guarantees that funds are managed in compliance with legal requirements and used solely to fulfill the stated mission or execute selected projects.
 
-As the project management entity of the DAO, Fundatia Ananke takes its role seriously. 
-It organizes the engineering teams, develops applications and tools the community uses in line with the product vision document, and deploys the application and tools to the user. It is also the support interface for the users.
+As the project management entity of the Blue Marble project, Fundatia Ananke takes its role seriously. 
+It organizes the engineering teams, develops the applications and tools the community uses in line with the product strategy document, and deploys the application and tools to the users. It is also the support interface for the users.
 Its dedication to the success of the DAO is unwavering, and its contributions play a crucial role in the growth and sustainability of the project.
 
 ## Why do we use a foundation as the vehicle for Blue Marble Project

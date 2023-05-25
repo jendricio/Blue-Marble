@@ -1,5 +1,5 @@
 # Blue-Marble
-## Welcome in the Documentation of Blue Marble DAO
+## Welcome to the Documentation repository of Blue Marble DAO
 
 This repository contains the documentation for the Blue Marble DAO.
 We believe in Open Source, so all comments and proposal are welcome and will be analyzed.

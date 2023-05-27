@@ -1,3 +1,4 @@
+# Blue Marble Project Manifesto
 ## We want to give back to the people the power to determine the future of humankind.
 Fundatia Ananke is a visionary European foundation committed to driving positive change in the world. Their mission is to inspire and empower individuals and businesses to adopt sustainable practices that benefit the environment, society, and the economy. By embracing the principles of an open mind, open source, open access to science and technologies, and decentralization, they lead the charge toward a more equitable and resilient future. 
 ### Sustainability is the ultimate challenge for humanity.

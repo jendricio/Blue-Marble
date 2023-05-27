@@ -1,79 +1,44 @@
-This document is the manifesto of the Blue marble project of Fundatia Ananke. This project has the objective of creating a decentralized community of practice dedicated to sustainability by sharing information and tools, selecting, and executing projects.
+## We want to give back to the people the power to determine the future of humankind.
+Fundatia Ananke is a visionary European foundation committed to driving positive change in the world. Their mission is to inspire and empower individuals and businesses to adopt sustainable practices that benefit the environment, society, and the economy. By embracing the principles of an open mind, open source, open access to science and technologies, and decentralization, they lead the charge toward a more equitable and resilient future. 
+### Sustainability is the ultimate challenge for humanity.
+As a global community, we must confront the sustainability challenge with urgency and determination. The consequences of ignoring the warnings of scientists are now impossible to ignore. In response, the United Nations established the 17 Sustainable Development Goals in 2015, but progress has been slow.
+The fate of our planet and its inhabitants rests on our ability to achieve these goals, but we face significant obstacles. 
+- Gender equality is more at risk than ever before. 
+- Poverty continues to plague many parts of the world. 
+- Climate change is accelerating. 
+- Leaders and businesspeople pay lip service to equality while failing to take meaningful action. 
+- The COVID-19 pandemic has laid bare the inequalities in our healthcare systems and highlighted the need for a more equitable society. 
+- Yet, in many parts of the world, girls and women are still denied access to education and opportunities.
 
-# Sustainability is the ultimate challenge for humanity.
-Sustainability is a challenge that humanity must face head-on. Unfortunately, despite warnings from scientists and activists, many of us failed to take action. Now, the reality of climate degradation has become impossible to ignore.
-In 2015, world leaders recognized the need for a more sustainable way of living. As a result, they established the 17 Sustainable Development Goals (SDGs) of the United Nations. While some progress has been made since the SDGs went into effect in 2016, there is still a long way to go:
+We must acknowledge that the erosion of trust in our institutions and leaders is a significant obstacle to progress. Younger generations have lost faith in media, governments, and corporations, feeling betrayed by their elders. It is time for a new approach, one that prioritizes the needs of the planet and its inhabitants over short-term profits and individual gain. One that challenges once and for all the status quo.
+### Centralized decision-making is driving us nowhere.
+Achieving a sustainable way of life is not just a choice but a necessity for our survival as a species. However, progress toward sustainability cannot solely rely on the actions of governments and corporations. It must be the collective efforts of individuals and communities.
 
-- Gender equality risks moving backward, with women's rights being challenged. 
-- Poverty continues to be a major issue in many parts of the world. 
-- Climate change targets are frequently missed. 
-- Leaders and businesspeople talk about equal opportunities without taking action. 
-- The COVID-19 pandemic highlighted unequal access to healthcare and vaccines. 
-- Girls and women in many parts of the world are denied access to education.
+Governments are limited by their jurisdiction and the short-sightedness of their re-election cycles. We need a long-term and global approach that transcends political boundaries to address sustainability concerns.
 
-At Fundatia Ananke, we are convinced that People are inherently good and willing to do good. But we need to give them the means to take action. Sustainability is the responsibility of each individual. And working together as a global community is the best way to achieve a sustainable future.
-# We need leaders and supporting tools.
-Achieving a sustainable way of life is crucial for our survival as a species. But we need leaders to guide us toward this goal. Unfortunately, people’s trust in institutions, governments, and corporations has eroded.
+ On the other hand, corporations prioritize profits above all else, which often conflicts with the interests of the environment and the people. Therefore, their efforts toward Environment and Social Governance have been insufficient and evaluated based on their immediate financial impact.
 
-Governments are ill-equipped to take the role of leaders in this matter. Their action is restrained by their frontiers and the next re-election term. On the opposite, tackling sustainability concerns requires a long-term and global vision. 
+As individuals and communities, it is up to us to take action towards a sustainable future. We must hold our leaders accountable and push for comprehensive and effective policies. We must also make conscious choices in our daily lives and support businesses that prioritize sustainability. 
+Together, people can create a better world for themselves and future generations.
+## We are building the enabling tools for decentralized autonomous decision-making by the people 
+### We need to listen back to the stakeholders of humankind
+The future of humankind and our planet rests in the hands of every individual. We are all responsible for taking action toward sustainability, and we cannot do it alone. 
+It’s time to empower ourselves and regain control of our decisions. By embracing decentralized decision-making, we can create a new dynamic and give voice to every person. 
+Let’s join forces and work towards a more sustainable future where everyone’s voice is heard, and everyone’s actions count. Together, we can make a difference and create a world our children will be proud to inherit.
+### Technology is a tool for emancipation.
+With the advent of advanced technology, we have witnessed a remarkable breakthrough in organizational structures. Technology has become a powerful, liberating tool, enabling every participant to express their opinions without fear and facilitating decision-making through consensus, taking every voice into account. 
+This new organizational model, known as DAO - Decentralized Autonomous Organization, utilizes blockchain technology to create a safe and collaborative environment for everyone. 
+For the first time in history, people can make decisions and take action, becoming the masters of their own destiny. The power of DAO lies in its ability to decentralize decision-making, ensuring that no single individual or group has excessive control. This empowers individuals to participate in decision-making processes and ensures every voice is heard. As a result, DAO revolutionizes how organizations operate, creating a more inclusive and democratic world for us all.
+### DAO changes our relationship with governance
+The emergence of DAO has revolutionized the way we approach governance. Gone are the days of relying on a select group of individuals to make decisions on our behalf. With DAO, the power is returned to the people, allowing for a more democratic and transparent process. This shift has not only solidified our freedom but has also broken our dependence on centralized authorities. The days of serving the interests of a select few are over, and it’s time for everyone to have a voice. 
+### Breaking the Shackles of Short-Term Thinking.
+The vicious cycle of short-term thinking is a threat to the sustainability of our future. We must break free from this chain and embrace a vision of hope and progress. To achieve this, we must shift power from shareholders to stakeholders. This will enable us to escape the tyranny of profit-seeking and prioritize the needs of all individuals. By flattening hierarchies and empowering decentralized decision-making, we create a platform for people to express their humanity and contribute to a brighter future. This is the ultimate dream of every constitution in history, and now is the time to make it a reality. 
+# We are delivering the Blue Marble project.
+The Blue Marble project is a visionary initiative that aims to create a community of like-minded individuals dedicated to promoting and practicing sustainability.
+- It is powered by cutting-edge DAO technology that enables each member to have a say in the decision-making process and collaborate towards a greater goal - a sustainable lifestyle and way of doing business.
+- With a transparent and decentralized application, the Blue Marble project offers a unique platform for individuals to connect, share ideas, and pool resources toward creating a better world. 
+- By fostering a network of competencies, passions, and resources, it empowers each member to positively impact sustainability and witness the ripple effect of their actions over time.
+- This project offers a unique opportunity for individuals to take control of their own destinies and actively contribute towards creating a more sustainable future. 
+- With the autonomy to select and execute sustainability-related projects, each member can create momentum that inspires others to join the cause and make a lasting and growing difference in the world. 
 
-Corporations are even less equipped to take up the challenge. Their main goal remains the next quarterly profit. As a result, corporations are constrained by the ruling of shareholders, short-term profits, and dividends. 
-Few corporations claim to abide by Environment and Social Governance. But unfortunately, these initiatives are often evaluated based on their direct impact on short-term profits.
-Neither the government nor corporations have demonstrated a sense of urgency in developing sustainability.
-
-People need tools to support their initiatives. But, Social media posts have a short life and are not designed to promote a concern to the authority that can resolve it. 
-
-At Fundatia Ananke, we are convinced that sustainability is the responsibility of each individual. People must take matters into their own hands and act now. People are the ultimate stakeholders of their future. No one should have to face the challenge of sustainability alone.  
-We are committed to promoting a decentralized organization where people can access the tools they need to take action and are empowered to make decisions. 
-
-# Ethical use of technology can empower people.
-At Fundatia Ananke, we are convinced that decentralized decision-making is the way forward to enable individuals to decide by and for themselves. Fortunately, technology has advanced enough to allow this breakthrough. Technology is now a liberating tool. It facilitates the creation of organizations where every participant can express their opinions without fear and where decisions are made through consensus, with every voice taken into account.
-
-This new organizational model is called DAO - Decentralized Autonomous Organization. It utilizes blockchain technology to establish a safe and collaborative environment for anyone. For the first time in history, people can make decisions safely and take action. They can be the masters of their own destiny.
-
-DAO changes our relationship with governance. There is no more a small group of elected officials making decisions and imposing them on everyone else. Instead, DAO gives back the power to the people. It is no more in the hands of individuals who serve their own interests. This was the dream of the fathers of all major constitutions in history. And this dream comes true now.
-In a DAO, people can decide by consensus which projects are worth pursuing. They can support one another. They collaborate and allocate resources to their chosen projects. A DAO enables the community to benefit from collective wisdom and strength.
-
-# We are committed to creating a decentralized community dedicated to sustainability.
-The Blue Marble project of Fundatia Ananke consists in creating an empowered community as a DAO with the supporting toolbox to enable action through the execution of sustainability projects.
-This project is in line with the values of Fundatia Ananke:
-- Open source and open data: make source code and supporting data available for inspection by the community. Have the training data of AI inspected to avoid bias and protect privacy.
-- Open knowledge and open science: The value of knowledge resides in it being shared. A knowledge or a technology kept locked in a drawer is holding back humanity.
-- Decentralized organization: this is a mandatory condition to empower people.
-
-We have the vision of a community that is decentralized and empowered and collaborate to build a better future. A community where:
-- People can discuss their ideas and proposal freely and without fear;
-- The voice of each individual is heard and taken into consideration;
-- Concerns are shared and collectively promoted to those who have the power to solve them;
-- The community, through consensus, select projects, execute them, and report the outcomes in full transparency;
-- The contribution of each individual is welcomed, praised, and rewarded;
-- People collaborate on research and technologies safely and transparently;
-- Technologies are protected against patent trolls but remain available to whom need them while ensuring a fair remuneration of the contributors;
-- People don’t have to take project outcomes at face value but can inspect the supporting data and conclude about the claims’ accuracy.
-
-We design this community and toolbox with strict ethics in mind. We make sure that no unhealthy dependencies or influences are created. We only use artificial intelligence when necessary. And where we do, it is trained on anonymized data to protect the privacy of our users. The training data is available for inspection to ensure that no bias is being introduced.
-# We are committed to creating long-term value, not short-term profit
-Achieving sustainable living cannot be accomplished in a single day. It requires a long-term vision. In contrast, traditional venture capital prioritizes short-term gains for shareholders at the expense of users. 
-
-Therefore, we have chosen a radically different path. 
-Fundatia Ananke is a foundation and operates without shareholders. It can focus on its mission and values. This frees us from the obligation of prioritizing growth at all costs and short-term valuation over a sustainable operation. 
-
-We are free to give back the power to the community, reward the users for their contribution, and provide the right tools in the long run. We are free to progressively decentralize the decision-making to the users to the point where they will have complete control over the community’s strategy and development, including the supporting toolbox. 
-We believe that, as soon as possible, each member must have a say in their future and the community’s future.
-We are committed to making this a reality quickly. The foundation’s role shall end up limited to being the guardian of the mission and values.
-# We are committed to generating a virtuous circle.
-Our approach to funding is based on this radically different approach and the perspective of a progressive but fast decentralization.
-This approach protects the project from the risk of deviating from its mission and values.
-Our fundraising strategy is built to promote long-term value creation by a virtuous circle effect.
-
-To initiate this virtuous circle, the Foundation raises funds as donations both in and outside the blockchain. The raised funds are used to grow the DAO and set up the toolbox. 
-Each donator shall receive DAO governance tokens that will allow them to participate in the decision-making.
-The donator will have the opportunity to monitor the use of the fund in transparency.
- 
-When the toolbox generates some revenues (through subscription to premium features), the foundation will pay back to the DAO 120% of the amount initially received.
-
-The DAO, via consensus votes, shall propose, select and execute sustainability projects funded with this amount.
-It is expected that each project showing a positive ROI shall give back to the DAO 120% of the funding it received.
-It is also expected that the members of the DAO will monitor the use of the funds and will be rewarded for that.
-
-This momentum shall progressively increase the value managed by the DAO and the capacity to take care of projects with more impact. This shall enable the community to develop the sustainability projects of its choice and progressively build its vision of a sustainable future.
+By joining the Blue Marble project, you will be part of a movement making a real difference. So don’t wait any longer. Let’s make a change today!

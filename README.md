@@ -7,5 +7,5 @@ We believe in Open Source, so all comments and proposal are welcome and will be 
 
 This repository contains
 - [The manifesto](https://github.com/dvarlot/Blue-Marble/blob/main/English%20versions/Blue%20Marble%20Manifesto.md)
-- [Fundatia Ananke](https://github.com/dvarlot/Blue-Marble/blob/main/Fundatia%20Ananke%20-%20Mission%20and%20values.md)
+- [Fundatia Ananke](https://github.com/dvarlot/Blue-Marble/blob/main/English%20versions/Fundatia%20Ananke.md)
 

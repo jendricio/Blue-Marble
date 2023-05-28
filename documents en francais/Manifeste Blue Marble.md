@@ -33,6 +33,6 @@ Le projet Blue Marble est une initiative visionnaire qui vise à créer une comm
 * Ce projet offre une opportunité unique à chacun de prendre le contrôle de leur propre destin et de contribuer activement à créer un avenir plus durable.
 * Avec l'autonomie pour sélectionner et exécuter des projets liés à la durabilité, chaque membre peut créer un élan qui inspire les autres à rejoindre la cause et à faire une différence croissante et durable sur le monde.
 
-⠀En rejoignant le projet Blue Marble, vous ferez partie d'un mouvement qui fait une vraie différence. 
+En rejoignant le projet Blue Marble, vous ferez partie d'un mouvement qui fait une vraie différence. 
 Alors n'attendez plus. Faisons le changement aujourd'hui ensemble !
 
